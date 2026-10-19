@@ -1,0 +1,4 @@
+interface:
+  display_name: "Content Repurposer"
+  short_description: "Adapt ideas into posts in your chosen voice"
+  default_prompt: "Use $content-repurposer to adapt my supplied idea for the requested audience and platform while preserving the facts."
